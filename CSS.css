@@ -52,6 +52,7 @@
         line-height: 28px;
         text-align: justify;
         position: absolute;
+        width: calc(100% - 20px);
         bottom: 0;
         margin: 0;
 }
