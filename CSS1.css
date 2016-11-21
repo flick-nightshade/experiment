@@ -30,6 +30,7 @@
         bottom: 0;
         margin: 0;
 		}
+
 	 div {
  	 height: 200px;
   	 background-size: cover;
@@ -43,4 +44,7 @@
 } 
 .second{
   background-image: url("http://cdn.wallpapersafari.com/51/54/oj7COH.jpg");
+}
+.third{
+	background-image: url(http://wall-papers.info/images/abstract-background/abstract-background-24.jpg);
 }
