@@ -13,4 +13,34 @@
       padding: 20px;
       margin: 0 auto;
     }
-    
+          body {
+         font-family: helvetica, sans-serif;
+           margin: 0 auto;
+          }
+       p {
+        color: rgba(255,255,255,1);
+        background: black;
+        background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+        background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+        padding: 10px;
+        line-height: 28px;
+        text-align: justify;
+        position: absolute;
+        width: calc(100% - 20px);
+        bottom: 0;
+        margin: 0;
+}
+ div {
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+}
+
+ .first{
+  background-image: url("http://media.gettyimages.com/videos/vibrant-circles-background-loop-frog-green-video-id161674893?s=640x640");
+} 
+.second{
+  background-image: url("http://cdn.wallpapersafari.com/51/54/oj7COH.jpg");
+}
