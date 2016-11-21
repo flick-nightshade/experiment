@@ -1,0 +1,16 @@
+  header {
+      text-align: center;
+      background: url("http://www.local22iaff.org/wp-content/uploads/2016/02/Find-Your-Good-Photography-Backdrops.jpg");
+      background-size: cover;
+      color: black;
+    }
+    h1 {
+      font-size: 70px;
+      color: white;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    
