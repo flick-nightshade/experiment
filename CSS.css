@@ -24,10 +24,6 @@
     background-color: #333;
 }
 
-li {
-    float: center;
-}
-
 li a {
     display: block;
     color: white;
