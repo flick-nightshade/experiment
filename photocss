@@ -2,7 +2,7 @@
 * {margin: 0; padding: 0;}
  
 body {
-    background: url('http://subtlepatterns.com/?p=1045');
+    background: url("http://subtlepatterns.com/?p=1045");
 }
  
 #container {
