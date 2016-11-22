@@ -38,7 +38,6 @@ li a:hover {
 }
 
     article {
-      max-width: 500px;
       padding: 20px;
       margin: 0 auto;
     }
@@ -53,10 +52,6 @@ li a:hover {
       }
       <style style="text/css">
      
-      marquee {
-    width: 100%;
-    height: auto;
-}
         }
 
 body {
