@@ -52,6 +52,12 @@ li a:hover {
         display: inline-block;
       }
       <style style="text/css">
+     
+      marquee {
+    width: 100%;
+    height: auto;
+}
+        }
 
 body {
       font-family: helvetica, sans-serif;
