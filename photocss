@@ -2,8 +2,7 @@
 * {margin: 0; padding: 0;}
  
 body {
-    <!-- src: http://subtlepatterns.com/?p=1045 -->
-    background: url('dark_geometric.png');
+    background: url('http://subtlepatterns.com/?p=1045');
 }
  
 #container {
