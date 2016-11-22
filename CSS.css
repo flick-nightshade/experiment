@@ -49,7 +49,7 @@ li a:hover {
       }
       li {
         padding: 5px;
-        display: block;
+        display: inline-block;
       }
       <style style="text/css">
 
