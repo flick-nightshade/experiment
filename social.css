@@ -1,0 +1,47 @@
+#social-buttons button {
+color: white;
+} 
+
+.btn-twitter {
+background-color: #00acee;
+border-color: #009ad5;
+} 
+
+.btn-facebook {
+background-color: #4868ac;
+border-color: #314776;
+} 
+
+.btn-pinterest {
+background-color: #b62f26;
+border-color: #b62f26;
+}
+
+.jumbotron {
+min-height: 600px;
+background-image: url('images/fruit-and-veg.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+
+#mission {
+	background-color: rgba(32,35,41,0.9);
+	font-color: #ddd;
+	padding-bottom: 40px;
+}
+
+.text-center {
+text-align: center;
+}
+
+element.style {
+}
+@media (min-width: 768px)
+.container {
+    width: 750px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
