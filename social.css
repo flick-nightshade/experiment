@@ -34,15 +34,3 @@ background-attachment: fixed;
 text-align: center;
 }
 
-element.style {
-}
-@media (min-width: 768px)
-.container {
-    width: 750px;
-}
-.container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-
